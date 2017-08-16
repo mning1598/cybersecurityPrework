@@ -27,6 +27,7 @@ The following advanced user stories are optional:
 
 Here's a walkthrough of implemented user stories:
 
+Setup: http://imgur.com/a/tT6NR
 Challenge 1: http://imgur.com/9F3lKp4
 Challenge 2: http://imgur.com/a/zFiM4
 Challenge 3: http://imgur.com/a/1AZrj
